@@ -1,0 +1,3 @@
+name: recommender-system-lectures
+dependencies:
+  - python=3.9
